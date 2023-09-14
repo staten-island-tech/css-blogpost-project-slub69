@@ -1,9 +1,29 @@
 body{
     background-color: antiquewhite;
+    text-align: center;
+}
+@font-face {
+    font-family: "SpongerFont";
+    src: url(SpongeboyRegular-gx2n6.otf);
 }
 .title{
     font-size: 45px;
-    font-family: "SpaceGrotesk-VariableFont_wght.ttf";
-    color: slateblue;
-    text-align: center;
+    font-family: "SpongerFont";
+    color: #7BEB47;
+}
+.headings{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#spong{
+    color: #FFC857;
+}
+#Patricia{
+    color: #DB6D65;
+}
+#squig{
+    color: #827CEF;
+}
+a{
+   display: block; 
 }
