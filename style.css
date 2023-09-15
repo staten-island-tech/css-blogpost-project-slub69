@@ -16,14 +16,17 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #spong{
-    color: #FFC857;
+    color: #e7a92a;
 }
 #Patricia{
     color: #DB6D65;
 }
 #squig{
-    color: #827CEF;
+    color: #817bee;
 }
 a{
-   display: block; 
+    display: block;
+    border: 2px groove;
+    margin: auto;
+    width: fit-content;
 }
